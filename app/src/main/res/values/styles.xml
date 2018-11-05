@@ -15,6 +15,9 @@
         <item name="colorPrimary">@color/colorPrimary</item>
         <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
         <item name="colorAccent">@color/colorAccent</item>
+
+        <!-- pour la couleur du window -->
+
         <item name="android:windowBackground">@color/colorWindowBckground</item>
 
     </style>
