@@ -20,6 +20,8 @@ public class MainActivity extends AppCompatActivity {
         setContentView( R.layout.activity_main );
         scan_btn = (Button)findViewById( R.id.scan_btn );
         final Activity activity= this;
+
+        // utilisation de la librairie ZXING
         scan_btn.setOnClickListener( new View.OnClickListener() {
             @Override
             public void onClick(View view) {
