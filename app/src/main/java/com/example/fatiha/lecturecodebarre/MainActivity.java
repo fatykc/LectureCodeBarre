@@ -59,4 +59,9 @@ public class MainActivity extends AppCompatActivity {
 
 
     }
+
+    public void testGithib(){
+
+        String test= "test";
+    }
 }
